@@ -1,6 +1,6 @@
 # Some small tools
 
-## Install using PiP
+## Install using pip
 ``` python
 pip install CJLTools
 ```
